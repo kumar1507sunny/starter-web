@@ -11,3 +11,7 @@ This is example to show different parts of the git repository and various comman
 Sample website with plenty of files for demo
 
 ## How To Contribute
+
+## Copyright
+
+2014 Git.Training
